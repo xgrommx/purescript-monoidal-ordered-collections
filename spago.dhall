@@ -9,7 +9,10 @@ You can edit this file as you like.
     , "effect"
     , "generics-rep"
     , "ordered-collections"
+    , "profunctor-lenses"
     , "psci-support"
+    , "strings"
+    , "unicode"
     ]
 , packages =
     ./packages.dhall
